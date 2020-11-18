@@ -12,6 +12,7 @@ System.out.println("11:23 github.com");
 System.out.println("ben burdan conflict beklemiyorum ");
 System.out.println("Yepyeni bir satir");
 System.out.println("10.26 feature branch");
+System.out.println("22.56 yeni gorev feature branch");
 	}
 
 }
